@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MDLSoft.Entity", "MDLSoft.Entity\MDLSoft.Entity.csproj", "{152F9BA1-2880-4613-905E-609099BBF91A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{67E16B29-A3DA-4FA1-B37B-D55EA2F7F36C}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE.txt = LICENSE.txt
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{152F9BA1-2880-4613-905E-609099BBF91A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{152F9BA1-2880-4613-905E-609099BBF91A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{152F9BA1-2880-4613-905E-609099BBF91A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{152F9BA1-2880-4613-905E-609099BBF91A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA02FBD6-9D78-4BBD-B692-F6CFA72B75D6}
+	EndGlobalSection
+EndGlobal
