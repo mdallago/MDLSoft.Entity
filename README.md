@@ -1,0 +1,2 @@
+# MDLSoft.Entity
+Base entity 
